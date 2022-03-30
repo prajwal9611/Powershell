@@ -1,0 +1,1 @@
+﻿Test-Path C:\prajwal.txt -OlderThan "March 30, 2022"
