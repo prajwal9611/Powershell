@@ -1,0 +1,1 @@
+﻿Get-ChildItem -Path C:\Demo | Select-Object Name

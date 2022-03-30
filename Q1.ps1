@@ -1,0 +1,3 @@
+﻿(Get-Item *).lastaccesstime
+
+
